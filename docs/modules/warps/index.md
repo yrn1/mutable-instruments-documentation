@@ -256,8 +256,8 @@ To switch modes, hold the button and turn the big knob. Each of the icons on the
 
 In all modes, each CV input is added to the corresponding knob. Unless otherwise noted, the button and Aux outputs act as in the stock firmware (control the internal oscillator).
 
-* Ladder Filter.
-* Dual State Variable Filter.
+* Stereo Filter: stereo multimode filter LP, HP, BP and notch. Or Dual parallel filter. Find it as a sub feature by pressing internal oscillator, move Algo knob to position one and while still pressing the button move the modulation knob fully CCW for the stereo filter or fully CW for the dual parallel filter.
+* Ensemble voice: ensemble effect with low pass filter and internal oscillator. Algo knob position 2.
 * Reverbs.
 * Chebyschev Waveshaper.
 * Frequency Shifter.
